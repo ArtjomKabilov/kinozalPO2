@@ -1,0 +1,9 @@
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\bin\Debug\MyVorm.exe.config
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\bin\Debug\MyVorm.exe
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\bin\Debug\MyVorm.pdb
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\obj\Debug\MyVorm.csprojAssemblyReference.cache
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\obj\Debug\MyVorm.Properties.Resources.resources
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\obj\Debug\MyVorm.csproj.GenerateResource.cache
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\obj\Debug\MyVorm.csproj.CoreCompileInputs.cache
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\obj\Debug\MyVorm.exe
+C:\Users\Artem Kabilov\OneDrive\Рабочий стол\Myform3-master\obj\Debug\MyVorm.pdb
